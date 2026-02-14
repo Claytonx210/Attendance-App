@@ -1,0 +1,7 @@
+{
+  "name": "LateScan - Student Attendance Tracker",
+  "description": "A professional QR code scanning application for schools to track and log student arrivals after 8:30 AM with Excel export capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
